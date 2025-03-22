@@ -6,3 +6,5 @@ To check your own understanding of GitHub, answer the questions that follow.
 - Store repositories on the remote cloud for collaboration and saftey.
 
 1. **What is the difference between forking and cloning a repository?** Write your response here.
+- Forking: Creating a copy of a repo to your github account
+- Cloning: Making a copy of a repo to your local machine 
